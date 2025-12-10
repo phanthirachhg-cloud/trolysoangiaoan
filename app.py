@@ -1,4 +1,4 @@
-import streamlit as st
+app.py
 import google.generativeai as genai
 from PIL import Image
 import tempfile
