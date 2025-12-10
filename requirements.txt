@@ -1,5 +1,6 @@
 requirements.txt
 google-generativeai
+python-docx
 Pillow
 pandas
 openpyxl
